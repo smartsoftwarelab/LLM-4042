@@ -2,3 +2,4 @@
 Articles/Student-02/*.mp4 filter=lfs diff=lfs merge=lfs -text
 Articles/Student-03/*.mp4 filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+*.rar filter=lfs diff=lfs merge=lfs -text
